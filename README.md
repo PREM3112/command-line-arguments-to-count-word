@@ -29,8 +29,9 @@ for line in fp:
 print("Number of words in a file",count)
 ```
 ### OUTPUT:
-![all text](/Screenshot%202023-12-23%20135012.png)
-![all text](/Screenshot%202023-12-23%20135029.png)
+![Screenshot 2023-12-23 135012](https://github.com/PREM3112/command-line-arguments-to-count-word/assets/145449383/0a7f9788-ce5f-40c5-9cb1-f1fba34f29aa)
+![Screenshot 2023-12-23 135029](https://github.com/PREM3112/command-line-arguments-to-count-word/assets/145449383/b407c1ba-1b15-410e-8825-98b8b10bc4bc)
+
 
 
 ## RESULT:
